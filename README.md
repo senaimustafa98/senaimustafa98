@@ -7,7 +7,7 @@
   <li>🎬 Watching movies</li>
   <li>🎵 Listening to music</li>
   <li>🎮 Gaming</li>
-  <li>Exploring AI concepts and tools</li>
+  <li>🤖Exploring AI concepts and tools</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
